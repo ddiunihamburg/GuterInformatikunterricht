@@ -60,3 +60,5 @@ Im Folgenden findest Du ein Quiz zu der Vorlesung zum Thema Informatikunterricht
 
 [(x)] Nutzung des Konzepts "CS Unplugged"
 [( )] Nutzung des Konzepts "bring your own device"
+
+## Fertig!
