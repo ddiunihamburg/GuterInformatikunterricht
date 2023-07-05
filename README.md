@@ -1,7 +1,7 @@
 <!--
-author:   Negar Monir
+author:   DDI Uni Hamburg 
 
-email:    negar.monir@uni-hamburg.de
+email:    ddi.ew@uni-hamburg.de
 
 version:  0.0.1
 
